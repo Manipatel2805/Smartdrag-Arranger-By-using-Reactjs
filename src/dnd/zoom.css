@@ -1,0 +1,4 @@
+
+.zoom{border:2px solid black;width:180px;height:180px;position:absolute;top:240px;left:900px;transition:transform 1s;border-radius:15px;}
+.zoom:hover{transform:scale(1.7)}
+.zoom1:hover{transform:scale(1.1)}
